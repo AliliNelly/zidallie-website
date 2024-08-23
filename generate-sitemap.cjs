@@ -11,7 +11,7 @@ const routes = [
 ];
 
 // Define the URL for your website
-const websiteUrl = "https://zidallie.netlify.app";
+const websiteUrl = "https://zidallie.co.ke";
 
 require("babel-register")({
   presets: ["es2015", "react"],
